@@ -1,5 +1,5 @@
 var password = prompt("*Please enter your password!*");
-        if (password=="TGp99WRsdPBu)~Jw", "s{3mEqta_q7SVGzm", "&%9K?>\zj4UMA.j:", "gU8'8Sp:HZUGsp`>", "free trial") {
+        if (password=="TGp99WRsdPBu)~Jw", "free trial") {
      setInterval(()=>{ // 444 = lava dragon // 230 = plane // 146 = emerald machine // 19 = reidite sword // 32 = reidite pickaxe // 34 = reidite spear // 39 = reidite hammer // 60 = lava helmet // 63 = lava sword // 82 = pilot //
 O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718946369314817/2.png"; // reidite_helmet
     O[44][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718946369314817/2.png";
