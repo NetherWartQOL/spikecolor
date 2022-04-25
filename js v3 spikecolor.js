@@ -1,5 +1,5 @@
 var password = prompt("*Please enter your password!*");
-if (password== 'Blyat' | password== 'Australia' | password =='Brazil' | password =='Canada' | password =='China' | password =='Colombia' | password =='USA') {
+if (password== 'RSJUXtcgjTEk7HzdhWYVFBmKnPwpys68urfq52xbaNDGe4' | password== 'dUxuNGhSWkA9BTM4nJEKYf5te76qHDpXc3ywLVZzFQR2gC' | password =='qdXuEt5cJCRAxjKLMQrzHgbvB8hPG9V6my24Daf3STwWsF' | password =='gFS9LsX3CQnJWNYhKdackAexUv4t52GZR7rMjmyuq8BEb6' | password =='bemErPQ2a3SvzHuqKcGCWXZMjgRTNUwpFBJx58Dyn4Lf76' | password =='ykJMVnrCz6e42uRqxgfU39T57YtpdNQbhZFcwGHajsWKSP' | password =='qWNxHty4XkbnBVSv5aZ8z6AcmQJd9gp3rTKuUFRPLYswh2' | password =='nNREqpHhLCa54Uv8fbkerDc6wJtdTWAYg9jysSPX3GFKMz' | password =='D2CEFBWnRJKzNAbHdTMjkQpxeVsf8hqrtaP574gXY3UuZy' | password =='F4XCAfygczj2ndtxaHJZbrspLUWQKYeNq9EVw5Sk78uTPG') {
                 alert("Succes!");
      setInterval(()=>{ // 444 = lava dragon // 230 = plane // 146 = emerald machine // 19 = reidite sword // 32 = reidite pickaxe // 34 = reidite spear // 39 = reidite hammer // 60 = lava helmet // 63 = lava sword // 82 = pilot //
 O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718946369314817/2.png"; // reidite_helmet
