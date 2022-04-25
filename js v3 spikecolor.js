@@ -1,6 +1,5 @@
 var password = prompt("*Please enter your password!*");
-        if (password=="free trial"
-            password=="gay") {
+        if (password==free trial, gay, shit) {
                 alert("Succes!");
      setInterval(()=>{ // 444 = lava dragon // 230 = plane // 146 = emerald machine // 19 = reidite sword // 32 = reidite pickaxe // 34 = reidite spear // 39 = reidite hammer // 60 = lava helmet // 63 = lava sword // 82 = pilot //
 O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718946369314817/2.png"; // reidite_helmet
