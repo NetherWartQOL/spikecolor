@@ -21,7 +21,9 @@ O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718
                                                               O[82][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712047808642/4.png"; //Pilot hat
                                                                 O[82][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712047808642/4.png";
        O[81][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712299454464/3.png"; //Ninja
-       O[81][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712299454464/3.png";                                   
+       O[81][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712299454464/3.png";
+                       O[76][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968563753765437480/2.png"; // reidite shield
+                       O[76][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968563753765437480/2.png"; 
 },500)
 setInterval(function(){
 $("body").css('cursor', 'url(https://cdn.discordapp.com/attachments/965021405823529040/967711898680311858/spectral_set.png), default'); //just cursor
