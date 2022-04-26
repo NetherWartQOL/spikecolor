@@ -18,10 +18,10 @@ O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718
                                               O[63][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947699462154/0835d07cca7f4bf7.png";
        O[17][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947959533578/8e03b5e1e25188f9.png"; //lava spear
                                               O[17][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947959533578/8e03b5e1e25188f9.png";
-       
-
-
-       
+                                                              O[82][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712047808642/4.png"; //Pilot hat
+                                                                O[82][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712047808642/4.png";
+       O[81][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712299454464/3.png"; //Ninja
+       O[81][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968560712299454464/3.png";                                   
 },500)
 setInterval(function(){
 $("body").css('cursor', 'url(https://cdn.discordapp.com/attachments/965021405823529040/967711898680311858/spectral_set.png), default'); //just cursor
