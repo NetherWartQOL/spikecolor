@@ -12,6 +12,11 @@ O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718
                            O[34][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/967711898030178334/1.png";
                              O[39][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967711898877456424/1.png"; //reidite hammer
                            O[39][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/967711898877456424/1.png";
+                                  O[60][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222948248928306/73ccf59a24afe730.png";
+                                         O[60][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222948248928306/73ccf59a24afe730.png";
+
+
+       
 },500)
 setInterval(function(){
 $("body").css('cursor', 'url(https://cdn.discordapp.com/attachments/965021405823529040/967711898680311858/spectral_set.png), default'); //just cursor
