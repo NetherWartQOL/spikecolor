@@ -14,6 +14,11 @@ O[44][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/967718
                            O[39][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/967711898877456424/1.png";
                                   O[60][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222948248928306/73ccf59a24afe730.png";
                                          O[60][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222948248928306/73ccf59a24afe730.png";
+                                                O[63][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947699462154/0835d07cca7f4bf7.png";
+                                              O[63][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947699462154/0835d07cca7f4bf7.png";
+       O[17][1].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947959533578/8e03b5e1e25188f9.png";
+                                              O[17][0].src = "https://cdn.discordapp.com/attachments/965021405823529040/968222947959533578/8e03b5e1e25188f9.png";
+       
 
 
        
