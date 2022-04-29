@@ -31,7 +31,7 @@ Pass.style =
   `;
 inputPass.style = `position:relative;border:none;margin-left:10px;font-family:Baloo Paaji;background-color:white;color:black;`;
 inputPass.maxLength="20";
-const QnlwYXNzaW5nIHBybw = ["nigger"];//<massive enter keys
+const QnlwYXNzaW5nIHBybw = ["pGP4CdNzc2mwPY7rNKhE8VsYrM3mz5sNLejuN96ENAygBSjt8yvPhVWYd9GRjUH6cR6Qm", "bav49AGHyZ3fxh6M6TrnPSnFtYfpBfBhdg2xeB9SjkyZSTuD2xhPQKUn7Wr965bFbxmQg", "8DjKjcRPzmNS5B2d7fCH8KXdmHk9DJgqBZB32bBAD6F4XSedBCVsxdYK54njx4GLXDb3N", "YvZm9cmc8w5aL3ZLcdVXHzEYzM9AQ2W3bJayTNL9Bkmef32XhjgF3Uh9rgcuWDM8hA4Lk", "xvBcsNguawDLc5HaF5Lr6AFunJ8zB8PzWFJWPfV9aT5SAmW6ggz2nqEwkWrzJvRMYh3RL", "6LYAaNgDXtwvu6jXPF5BECheFwD5qM7KE7dhHFPwuFVPm96p3f8PkaX2tLpn2KxLzZKtF", "fJgTyvEmSdQMXbpWLBL5XX3BzsH6LFwKeKj939C3Ep8CsGXjhH5UcVduUPzpAddPGwU2E", "zQFdaS2nqT2p9yPhFJEpxeuf2GVAR9sPxrXFty44FUKTgeHKR9WpeXn6XT4fAdKsRBEtp"];//<massive enter keys
 for (var i=0;i<QnlwYXNzaW5nIHBybw.length;i++){
 if (localStorage.getItem('AutoPassword') == QnlwYXNzaW5nIHBybw[i]) {
     inputPass.style.color = "Cyan";
