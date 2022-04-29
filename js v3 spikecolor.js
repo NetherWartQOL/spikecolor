@@ -44,7 +44,7 @@ document.onkeydown = function(event) {
     if (event.keyCode == 13) {
          if (inputPass.value.includes(QnlwYXNzaW5nIHBybw[0]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[1]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[2]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[3]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[4]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[5]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[6]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[7]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[8]) === false&&inputPass.value.includes(QnlwYXNzaW5nIHBybw[9]) === false){
             inputPass.style.color = "red";
-            inputPass.value = "Wrong key!";
+            inputPass.value = "Wrong Password!";
             setTimeout (function(){
                 inputPass.value = null;
                 inputPass.style.color = null;
