@@ -19,7 +19,7 @@ Pass.style =
   background-color:transparent;
   text-align:center;
   font-family:Baloo Paaji;
-  color:cyan;
+  color:red;
   position:absolute;
   width:100%;
   height:100%;
