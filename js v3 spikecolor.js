@@ -119,5 +119,5 @@ $("li").css('cursor', 'url(https://cdn.discordapp.com/attachments/96502140582352
     setTimeout (function(){
 inputPass.value = "";
 Pass.remove();
-    },1000)
+    },300)
 }
