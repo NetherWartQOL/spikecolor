@@ -6,12 +6,12 @@ let Pass = document.createElement('div');
 let inputPass = document.createElement('input');
 let RememberPass = document.createElement('input');
 let RememberPassLabel = document.createElement('label');
-Pass.innerHTML = `<br><br><br><br><br><br><br><br>Enter Key`;
+Pass.innerHTML = `<br><br><br><br><br><br><br><br>Enter Password`;
 RememberPass.type = "checkbox";
 RememberPass.name = "Remember";
 RememberPass.style = `position:relative;`;
 RememberPassLabel.for = "Remember";
-RememberPassLabel.innerHTML = "Remeber key";
+RememberPassLabel.innerHTML = "Remember Password";
 Pass.style =
     `
   font-size:2em;
