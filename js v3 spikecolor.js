@@ -31,7 +31,7 @@ Pass.style =
   `;
 inputPass.style = `position:relative;border:none;margin-left:10px;font-family:Baloo Paaji;background-color:white;color:black;`;
 inputPass.maxLength="40";
-const QnlwYXNzaW5nIHBybw = ["DS8r2raZPJS2TDG5bb", "ewKGgn3p6HxBKzKcYC", "yG7nETBSh3aG2qtNaY", "pLv2Dhhqf75fBufqKp", "6PGmp5yMjCCPUK7UVb", "awM7JEwHqV5MKQkWpM", "7bj6frKCeMWfcnUrtj", "yTjM4Ptm7rRtKqXhnT", "6gSrJp5FuMxqW9pcG5", "XQJX7yeDskqe8pGU7Q"];//<massive enter keys
+const QnlwYXNzaW5nIHBybw = ["DS8r2raZPJS2TDG5bb", "ewKGgn3p6HxBKzKcYC", "yG7nETBSh3aG2qtNaY", "pLv2Dhhqf75fBufqKp", "6PGmp5yMjCCPUK7UVb", "awM7JEwHqV5MKQkWpM", "7bj6frKCeMWfcnUrtj", "free", "6gSrJp5FuMxqW9pcG5", "XQJX7yeDskqe8pGU7Q"];//<massive enter keys
 for (var i=0;i<QnlwYXNzaW5nIHBybw.length;i++){
 if (localStorage.getItem('AutoPassword') == QnlwYXNzaW5nIHBybw[i]) {
     inputPass.style.color = "Cyan";
